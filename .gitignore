@@ -5,3 +5,4 @@
 /.vs
 /PaymentLibrary/.vs/PaymentLibrary
 /PaymentLibrary/PaymentLibrary/obj
+/PaymentLibrary/PaymentLibrary.Tests/obj
