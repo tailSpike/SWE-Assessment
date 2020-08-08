@@ -16,7 +16,7 @@ namespace PaymentLibrary
         Check=2,
         DebitCard=3
     }
-
+    
     public class PaymentProcessor {
         public string creditCardNumber { get; set; }
         public DateTime exporationDate { get; set; }
@@ -26,7 +26,13 @@ namespace PaymentLibrary
         {
             return;
         }
-
+        
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="creditCardNumber"></param>
+        /// <param name="cvv"></param>
+        /// <param name="expirationDate"></param>
         private void Validate(string creditCardNumber, string cvv, DateTime? expirationDate)
         {
             if (creditCardNumber.Length != 16)
