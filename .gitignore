@@ -5,3 +5,5 @@
 /.vs
 /PaymentLibrary/.vs/PaymentLibrary
 /PaymentLibrary/PaymentLibrary/obj
+/PaymentLibrary/PaymentLibrary.Tests/obj
+/PaymentLibrary/PaymentLibrary.Tests/bin/Debug/netcoreapp3.1
