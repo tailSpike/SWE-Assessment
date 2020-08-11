@@ -2,6 +2,8 @@
 An assessment project used to measure new and incoming developer to the organization.
 
 # What do I do?
+- Install the latest Microsoft Visual Studio (https://visualstudio.microsoft.com/).
+
 Required :
 - Ensure that it can compile successfully. If it doesn't, identify the problem, and address it. 
 - Review the code, identify any implementation issues, and refactor the code as you see fit, then raise a pull request. 
