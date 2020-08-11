@@ -5,6 +5,9 @@ An assessment project used to measure new and incoming developer to the organiza
 - Install the latest Microsoft Visual Studio (https://visualstudio.microsoft.com/).
 
 Required :
+- Clone the repository to your local.
+- Create a branch from the master.
+- Check out the branch code.  
 - Ensure that it can compile successfully. If it doesn't, identify the problem, and address it. 
 - Review the code, identify any implementation issues, and refactor the code as you see fit, then raise a pull request. 
 - Notify the Said Alhayek at said.alhayek@openedgepay.com that you've raise a PR. 
