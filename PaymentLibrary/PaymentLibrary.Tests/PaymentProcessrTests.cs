@@ -58,7 +58,7 @@ namespace OrderProcessing.Tests
             }
             else
             {
-                 Assert.Fail("Payment failed to process with error : " + message);
+                Assert.Fail("Payment failed to process with error : " + message);
             }
             
             
