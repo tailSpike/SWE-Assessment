@@ -41,7 +41,7 @@ namespace OrderProcessing
             //}
             //else
             //{
-            //message="Shit happened";
+            //message="stuff happened";
             //return false;
             //}
         }
@@ -56,7 +56,7 @@ namespace OrderProcessing
             //}
             //else
             //{
-            //message="Shit happened";
+            //message="stuff happened";
             //return false;
             //}
         }
